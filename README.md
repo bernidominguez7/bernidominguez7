@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bernidominguez7
 - 👀 I’m interested in art programs
-- 🌱 I’m currently learning to code safely
-- 💞️ I’m looking to collaborate with old friends
+- 🌱 I’m currently finishing university
 - 📫 How to reach me: im almost every day working from my home in the city
 
 <!---
